@@ -1,5 +1,6 @@
 [
   {"id": 1, "name": "Kuldeep", "grade": "A"},
-  {"id": 2, "name": "Rahul", "grade": "B"},
-  {"id": 3, "name": "Amit", "grade": "C"}
+  {"id": 2, "name": "Rahul", "grade": "A"},
+  {"id": 3, "name": "Amit", "grade": "B"},
+  {"id": 4, "name": "Deepu", "grade": "A"}
 ]
